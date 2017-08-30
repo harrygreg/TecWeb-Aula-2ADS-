@@ -1,0 +1,16 @@
+.bordas{
+	font-family: Verdana;
+	border-width:1px;
+	border-style:solid; 
+	border-color:black;
+	vertical-align: middle;
+	line-height:2;
+	
+}
+
+.centro{
+	text-align:center;
+	font-size: 12px;
+	font-style: verdana;
+	color: red;
+}
