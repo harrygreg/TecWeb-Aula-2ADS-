@@ -1,3 +1,4 @@
+
 .bordas{
 	font-family: Verdana;
 	border-width:1px;
@@ -5,12 +6,116 @@
 	border-color:black;
 	vertical-align: middle;
 	line-height:2;
-	
+	padding: 10px;
+    max-width: 300px;
+	margin: 20px 500;
+    
+    
 }
 
 .centro{
 	text-align:center;
 	font-size: 12px;
-	font-style: verdana;
 	color: red;
+}
+.graduacao{
+	
+	 text-align:left;	
+	font-size: 12px;
+	color: blue;
+}
+.pos-graduacao{
+	 text-align:left;	
+	font-size: 12px;
+	color: green;
+	font-weight:bold;
+}
+.mestrado{
+	 text-align:left;	
+	font-size: 12px;
+	color: yellow;
+	font-weight:italic;
+}
+.doutorado{
+	 text-align:left;	
+	font-size: 12px;
+	color: red;
+	text-decoration: underline;
+}
+
+.esta{
+	text-align:center;	
+	font-size: 12px;
+	color: purple;
+	font-family:Times New Roman;
+}
+
+.primeira{
+	text-align: right;
+	font-size: 12px;
+	color: purple;
+	font-family:Times New Roman;
+}
+.aula{
+	text-align:center;
+	font-size: 12px;
+	color: purple;
+	font-family:Times New Roman;
+}
+.tccs{
+	text-align: right;
+	font-size: 12px;
+	color: purple;
+	font-family:Times New Roman;
+}
+
+.sistema{
+	font-weight: bold;
+	font-size: 23px ; 
+	text-align: center;
+	border-top-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-bottom:1px;
+	border-style:solid;
+	border-color:black;
+	
+}
+.bordas2{
+	font-family: Verdana;
+	border-width:1px;
+	border-style:solid; 
+	border-color:black;
+	vertical-align: middle;
+    line-height:2;
+	padding: 50px;
+    max-width: 300px;
+	margin: 20px 500;	
+}
+
+tr,td,th{
+	text-align: center;
+	border-style:solid;
+	border-width:1px;
+	font-size:12px;
+}
+
+.cinza{
+	background-color:grey;
+}
+.verde{
+	color:green;
+	font-family: Arial;
+}
+.vermelho{
+	color:red;
+	font-family: Arial;
+}
+
+h3 {
+    text-align: right;
+} 
+img{
+	float:left;
+	margin:0 20px 10px 0;
 }
